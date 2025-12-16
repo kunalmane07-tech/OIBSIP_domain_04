@@ -1,0 +1,21 @@
+InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Country,TotalPrice
+536365,85123A,White Hanging Heart T-Light Holder,6,2023-01-10 08:26,2.55,17850,United Kingdom,15.299999999999999
+536365,71053,White Metal Lantern,6,2023-01-10 08:26,3.39,17850,United Kingdom,20.34
+536366,84406B,Cream Cupid Hearts Coat Hanger,8,2023-01-11 09:00,2.75,13047,United Kingdom,22.0
+536367,84029G,Knitted Union Flag Hot Water Bottle,6,2023-01-11 09:05,3.39,12583,France,20.34
+536367,84029E,Red Woolly Hottie White Heart.,6,2023-01-11 09:05,3.39,12583,France,20.34
+536368,22752,Set 7 Baby T-Shirts,3,2023-01-12 10:20,7.65,17876,Germany,22.950000000000003
+536369,21730,Glass Star Frosted T-Light Holder,6,2023-01-12 11:15,4.25,14527,United Kingdom,25.5
+536370,22633,Hand Warmer Union Jack,6,2023-01-12 12:18,1.85,17015,Spain,11.100000000000001
+536370,22632,Hand Warmer Red Polka Dot,6,2023-01-12 12:18,1.85,17015,Spain,11.100000000000001
+536371,84879,Black Canvas Art Picture,8,2023-01-13 13:40,2.1,15019,United Kingdom,16.8
+536372,22423,Personalised Mug,4,2023-01-13 15:00,5.95,16749,Italy,23.8
+536373,35971,Christmas Star Decoration,10,2023-01-13 16:31,1.65,16750,United Kingdom,16.5
+536374,22384,Home Sweet Home Metal Sign,5,2023-01-14 09:45,3.75,13048,United Kingdom,18.75
+536375,22114,Hot Water Bottle Pink,7,2023-01-14 11:12,4.95,17851,France,34.65
+536376,21212,Green Tea Light Holder,9,2023-01-14 14:25,1.15,16033,Netherlands,10.35
+536377,22621,Metal Lantern Small,2,2023-01-15 10:40,4.25,17852,United Kingdom,8.5
+536378,22739,Set of 4 Mug Coasters,4,2023-01-15 12:20,2.1,17853,Sweden,8.4
+536379,22086,Paper Chain Kit 50 Pieces,30,2023-01-16 13:41,1.25,13049,United Kingdom,37.5
+536380,21213,Red Tea Light Holder,7,2023-01-16 14:55,1.15,17854,Denmark,8.049999999999999
+536381,22087,Paper Star Lantern,5,2023-01-16 15:30,3.75,17855,United Kingdom,18.75
